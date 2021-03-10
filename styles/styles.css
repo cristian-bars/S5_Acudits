@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+#contingut {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#risas {
+    opacity: 0.4;
+    width: 70%;
+    margin: 0 auto;
+}
+
+#llença {
+    background-color: #4CAF50; /* Green */
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+#llença:hover {
+    background-color: #fff;
+    color: #4CAF50; /* Green */
+    border: 2px solid #4CAF50; /* Green */
+    border-radius: 5px;
+}
+
+#data {
+    max-width: 600px;
+    margin-top: 20px;
+}
